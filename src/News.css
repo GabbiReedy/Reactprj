@@ -1,0 +1,13 @@
+#newmain{
+    background-color: pink;
+}
+#newscard{
+    margin-top: 10px;
+}
+#newshead{
+    color: white;
+}
+#newscol{
+    height: 250px;
+    overflow: hidden;
+}

@@ -1,0 +1,30 @@
+#prodcard{
+    height: 500px;
+    margin: 10px;
+    border: none;
+    overflow: scroll;
+}
+#prodcard::-webkit-scrollbar{
+    display: none;
+}
+#prodhead{
+    color: brown;
+}
+#prodtop{
+    background-color: rgb(240, 51, 51);
+    opacity: 0.8;
+    border: none;
+}
+#prodh1{
+    text-align: center;
+    font-size: 50px;
+}
+#prodh3{
+    background-color: rgba(0, 0, 0, 0.091);
+    margin-top: 5px;
+    opacity: 0.9;
+}
+#prodh5{
+    color: white;
+    background-color: black;
+}

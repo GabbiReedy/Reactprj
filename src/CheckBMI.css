@@ -1,0 +1,56 @@
+#con{
+    text-align: center;
+    background-color: pink;
+  }
+  #bmi{
+    background-color: rgba(44, 227, 227, 0.425);
+    opacity: 0.9;
+    background-attachment: fixed;
+    margin-top: 20px;
+    border-radius: 50px 50px 0px 0px;
+  }
+  #bmi1{
+    background-color: rgba(171, 171, 235, 0.667);
+    border-radius: 0px 0px 50px 50px;
+  }
+  #h1{
+    color: rgba(255, 255, 255, 0.74);
+    margin-top: 10px;
+    font-size: 15px;
+  }
+  #h2{
+    color: black;
+    margin-top: 10px;
+  }
+  .text-yellowgreen {
+    color: black;
+  }
+   
+  .text-green {
+    color: black;
+  }
+   
+  .text-yellow {
+    color: black;
+  }
+   
+  .text-red {
+    color: black;
+  }
+  #img{
+    width: 70%;
+   
+  }
+  #in{
+    color: black;
+    margin-top: 20px;
+    background: none;
+    border: none;
+    border-bottom: 2px solid black;
+  }
+  #rel{
+    color: black;
+  }
+  #val{
+    color: black;
+  }

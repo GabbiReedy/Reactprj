@@ -1,0 +1,14 @@
+#home{
+    background-color: rgba(255, 192, 203, 0.63);
+}
+#homep{
+    font-family: cursive;
+    font-size: 17px;
+}
+#homeimg{
+    width: 350px;
+    border-radius: 50px 0px 50px 0px;
+}
+#homecard:hover{
+    padding: 2px;
+}

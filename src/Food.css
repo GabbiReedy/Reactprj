@@ -1,0 +1,18 @@
+#food{
+    background-color: pink;
+}
+#foodcard{
+    background-color: rgb(10, 78, 66);
+    border-radius: 0px 0px 30px 30px;
+}
+#foodcard1{
+    width: 250px;
+    height: 300px;
+    border-radius: 0px 0px 30px 30px;
+    margin: 20px;
+}
+#foodcard2{
+    background-color: rgba(54, 189, 164, 0.502);
+    margin: 5px;
+        border-radius: 30px;
+}
